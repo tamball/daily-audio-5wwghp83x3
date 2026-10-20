@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
-<title>Daily Audio</title><link>https://tamball.github.io/daily-audio-5wwghp83x3/</link><atom:link href="https://tamball.github.io/daily-audio-5wwghp83x3/feed.xml" rel="self" type="application/rss+xml"/>
+<title>Daily Audio</title><link>https://tamball.github.io/daily-audio-5wwghp83x3/</link><atom:link href="https://tamball.github.io/daily-audio-5wwghp83x3/podcast.xml" rel="self" type="application/rss+xml"/>
 <description>Private daily 1.5x audio from subscribed YouTube channels</description><language>en</language>
 <image><url>https://tamball.github.io/daily-audio-5wwghp83x3/cover.jpg</url><title>Daily Audio</title><link>https://tamball.github.io/daily-audio-5wwghp83x3/</link></image>
 <itunes:image href="https://tamball.github.io/daily-audio-5wwghp83x3/cover.jpg"/><itunes:author>Daily Audio</itunes:author>
